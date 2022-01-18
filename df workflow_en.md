@@ -2,7 +2,7 @@
 
 ## Directory structure
 
-```bash
+```sh
 .
 ├── Makefile
 ├── README.md
@@ -29,7 +29,7 @@
 
 ## Package workflow
 
-```bash
+```sh
 ./workflow/
 ├── activities						# Built-in Activities
 ├── cel.go								# encapsulation of cel-go

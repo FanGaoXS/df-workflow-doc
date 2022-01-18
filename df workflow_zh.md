@@ -2,7 +2,7 @@
 
 ## 目录结构
 
-```bash
+```sh
 .
 ├── Makefile
 ├── README.md
@@ -29,7 +29,7 @@
 
 ## workflow包
 
-```bash
+```sh
 ./workflow/
 ├── activities						# 内置的Activities
 ├── cel.go								# cel-go的封装
